@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+*.env
+build
+built/
+dist/
+*.map
+*.log
+.DS_Store
+.vscode/
+.idea
